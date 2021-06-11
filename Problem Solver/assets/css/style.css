@@ -56,7 +56,7 @@ p {
     height: 250px;
     width: 250px;
     margin-bottom: 10px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("image.jpg/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -122,21 +122,21 @@ p {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-    background-image: url("./assets/images/lead-generation.png");
+    background-image: url("image.jpg/lead-generation.png");
 }
 
 .benefit-brand img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-    background-image: url("./assets/images/brand-awareness.png");
+    background-image: url("image.jpg/brand-awareness.png");
 }
 
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-    background-image: url('"./assets/images/cost-management.png"');
+    background-image: url("image.jpg/cost-management.png");
 }
 
 .search-engine-optimization {
@@ -168,17 +168,17 @@ p {
 
 .search-engine-optimization img {
     max-height: 200px;
-    background-image: url('./assets/images/search-engine-optimization.jpg');
+    background-image: url('image.jpg/search-engine-optimization.jpg');
 }
 
 .online-reputation-management img {
     max-height: 200px;
-    background-image: url('./assets/images/.online-reputation-management.jpg');
+    background-image: url('image.jpg/online-reputation-management.jpg');
 }
 
 .social-media-marketing img {
     max-height: 200px;
-    background-image: url('./assets/images/.social-media-marketing');
+    background-image: url('image.jpg/social-media-marketing.jpg');
 }
 
 .search-engine-optimization h2 {
