@@ -27,7 +27,7 @@ This was to correct issue with the project/Refactoring
 
 ## Usage
 
-![HTML](../image/Capture4.PNG)
+![HTML](./image/Capture4.PNG)
 
 
 
